@@ -86,7 +86,9 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="buttonText" destination="O40-Dh-9Sa" id="Sb2-Cp-3gY"/>
                         <outlet property="currentTimeLabel" destination="TIh-DD-NNE" id="w1m-wX-6jm"/>
+                        <outlet property="timePicker" destination="QuT-mg-4pF" id="4h0-bh-EHO"/>
                         <outlet property="timeRemaining" destination="ktv-ll-s2G" id="cv9-Bj-iTb"/>
                     </connections>
                 </viewController>
